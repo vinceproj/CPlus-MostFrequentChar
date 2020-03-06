@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\vince\desktop\occurencefinder\occurencefinder\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\vince\desktop\occurencefinder\occurencefinder\source.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  occurenceFinder.vcxproj -> C:\Users\Vince\Desktop\occurenceFinder\Debug\occurenceFinder.exe
